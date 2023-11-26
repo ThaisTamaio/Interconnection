@@ -15,7 +15,9 @@ import view.View;
 
 public class Controller<T> {
 
-	/* Instancia del Modelo*/
+	/* Instancia del Modelo
+	 * HOLAAAAA
+	*/
 	private Modelo modelo;
 	
 	/* Instancia de la Vista*/
